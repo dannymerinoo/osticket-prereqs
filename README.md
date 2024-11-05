@@ -12,21 +12,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- <b>Microsoft Azure</b>
+- <b>Virtual Machines</b>
+- <b>Remote Desktop Connection</b>
+- <b>Internet Information Services</b>
+- <b>MySQL</b>
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
 
-- Create virtual machine in Azure/
-- Install / Enable IIS in Windows
-- Install MySQL
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
